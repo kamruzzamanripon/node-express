@@ -1,0 +1,13 @@
+{
+  "name": "yarn_express",
+  "version": "1.0",
+  "description": "Server test express",
+  "main": "index.js",
+  "author": "syed kamruzzaman",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
